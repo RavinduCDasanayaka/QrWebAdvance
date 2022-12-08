@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Outfit-Bold";
+    src: url("resorces/Outfit-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Outfit-Regular";
+    src: url("resorces/Outfit-Regular.ttf");
+}
+
+.br{
+    border-radius: 8%;
+}
+.mmt{
+    margin-top: 5%;
+}
